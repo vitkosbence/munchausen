@@ -9,6 +9,3 @@ A megoldás részletei:
 -Int cast -> 0 ... 9 egyjegyű sztringek és int értékükből álló párok tárolása egy dictionaryban, későbbiekben innen való elérése.
 
 -Minden határ alatti természetes szám vizsgálata -> Csak "Münchausen összeg"-ként előállítható számok vizsgálata. (bővebben pdf)
-
--Továbbá nem szükséges olyan Münchausen összeget vizsgálni, ami vagy a felső határ felett van, vagy kevesebb számjegyű, mint az őt előállító
-számjegyek száma.
